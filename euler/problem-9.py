@@ -11,8 +11,6 @@
 '''
 
 def main():
-    import math
-    import numpy as np
     is_found = False
     for n in range(int(1000 / 2)):
         for m in range(int(1000 / 2)):
