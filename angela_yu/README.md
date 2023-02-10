@@ -4,4 +4,8 @@ I am taking Angela Yu's #100DaysOfPython challenge which is simply #100DaysOfCod
 
 #### Day04: Rock, Scissors, Paper game
     You can find it in this folder under *rock_scisors_paper.py* file.
-![](rock_scissors_paper_game.png)
+![](assets/rock_scissors_paper_game.png)
+
+#### day05: Password Generator
+    It could be found under *password_-_gen.py* file.
+![](assets/password-gen.png)
