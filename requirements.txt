@@ -33,6 +33,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pydantic==1.10.7
 Pygments==2.14.0
+PyPDF2==3.0.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 PyYAML==6.0
