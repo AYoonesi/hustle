@@ -21,9 +21,9 @@ def split_pdf(input_path, output_path, start_page, end_page):
 
 # Example usage
 script_directory = os.path.dirname(os.path.abspath(__file__))
-input_file = os.path.join(script_directory, 'Handbook of development economics_Vol5_2010.pdf')
-output_file = os.path.join(script_directory, 'Kose, A., E. Prasad, K. Rogoff, and S.-J. Wei. 2010. Financial Globalization and Economic Policies.pdf')
-start_page = 288
-end_page = 367
+input_file = os.path.join(script_directory, 'naghd-ravie.pdf')
+output_file = os.path.join(script_directory, 'split_naghd-ravie.pdf')
+start_page = 4
+end_page = 10
 
 split_pdf(input_file, output_file, start_page, end_page)
